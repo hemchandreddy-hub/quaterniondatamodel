@@ -26,7 +26,7 @@ The 3D model used in this project was rigged using **Mixamo** and rendered on th
 
 ---
 
-## Process Followed (In Simple Words)
+## Process
 
 1. First, the 3D character was uploaded to **Mixamo**
 2. Automatic rigging was applied to generate bones for the character
